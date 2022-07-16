@@ -1,0 +1,1 @@
+class ChatExeption (message: String) : RuntimeException(message)
